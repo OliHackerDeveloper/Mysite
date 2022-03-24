@@ -1,6 +1,6 @@
-# Mysite
+# javiersite
 
-## 24/3/22
-## olihackerdeveloper@gmail.com
+## Versión corregida el 24/3/2022.
+
 ## cualquiercosateaveriguo@gmail.com
-## colaboracion con cualquiercosateaveriguo
+## olihackerdeveloper@gmail.com
